@@ -3,7 +3,7 @@
 I'm...
 
 - Alan, _a.k.a. \_Wr\__ 🌐
-- Python, some Front-end & Fack-end Programming </>
+- Python, some front-end & back-end Programming </>
 
 I owns a [Webpage](https://wrye.dev/). 
 
