@@ -2,9 +2,7 @@
 
 I'm...
 
-- Alan, _a.k.a. \_Wr\__ 🌐
-- Python, some front-end & back-end Programming </>
+- Alan Ye, _a.k.a. \_Wr\__ 🌐
+- a developer, who quite know something about Vue.js, Python, Linux Shell, etc. </>
 
-Welcome to visit my [webpage](https://wrye.dev/). 
-
-You can also find me on [Mastodon](https://mastodon.social/@wrye) & [Twitter](https://twitter.com/Wr_Offi)
+Welcome to visit my [blog](https://wrye.dev/). Also, you can find me on [Mastodon](https://mastodon.social/@wrye) & [Twitter](https://twitter.com/Wr_Offi)
